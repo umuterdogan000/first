@@ -1,2 +1,2 @@
 # first
-Python working file
+First shot and basic python exercises
